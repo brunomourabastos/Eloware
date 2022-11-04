@@ -26,6 +26,6 @@ Diante disso, você deve desenvolver um projeto java, com os seguintes requisito
 Feito, utilizando Eclipse.
 </br>
 
-O caminho para as classes:
+O caminho para as classes dentro desse repositório é:
 
-src\iniflex
+<strong>src\iniflex</strong>
