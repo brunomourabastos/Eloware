@@ -24,3 +24,8 @@ Diante disso, você deve desenvolver um projeto java, com os seguintes requisito
 3.12 - Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.</br>
 </br>
 Feito, utilizando Eclipse.
+</br>
+
+O caminho para as classes:
+
+src\iniflex
